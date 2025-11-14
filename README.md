@@ -8,6 +8,9 @@ This RPA solution consists of two distinct UiPath projects — **RPA_Dispatcher*
 
 ## 🧱 Architecture
 
+### 📸 Project Structure Overview
+![Project Screenshot](https://github.com/Renish-R/Robotic_Process_Automation_Using_UiPath/blob/main/project.png)
+
 ### 1. 🔄 Dispatcher (`RPA_Dispatcher`)
 The **Dispatcher** is responsible for reading data from an external source (e.g., Excel or web) and uploading it as transaction items into a **UiPath Orchestrator Queue**.
 
